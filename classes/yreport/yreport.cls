@@ -52,7 +52,7 @@
 	\FrenchBullettrue
 }
 \DeclareOption{noFrenchBullet}{
-	\yFrenchBulletfalse
+	\FrenchBulletfalse
 }
 
 \newif\ifFrench
